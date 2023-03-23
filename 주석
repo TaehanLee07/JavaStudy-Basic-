@@ -1,0 +1,15 @@
+package chap_01;
+public class _04_Comment {
+    public static void main(String[] args) {
+
+int size = 120;
+size=size+10; //어린이는 발이빨리자라기때문에 사이즈가 10만큼 더 큰 신발을 구매
+        System.out.println("신발사이즈 "+size+"으로 보여주세요");
+
+/* int a = 10;
+int b = 20;
+        System.out.println(a+b); //30
+    */
+    //한 줄 주석 단축기 : Ctrl + /  //여러 줄 주석 단축기 : Ctrl + Shift + /
+
+    }
