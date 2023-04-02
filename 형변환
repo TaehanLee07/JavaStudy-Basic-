@@ -44,6 +44,8 @@ public class _07_TypeCasting {
         System.out.println(k);
         double q = Double.parseDouble("2.46523");
         System.out.println(q);
+        
+        //복습#1
 
     }
 
